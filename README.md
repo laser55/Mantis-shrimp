@@ -1,2 +1,2 @@
 # Mantis-shrimp
-codeBerry munkám
+CodeBerry munkám
